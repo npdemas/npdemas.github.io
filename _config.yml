@@ -20,8 +20,8 @@ title: Nickolas P. Demas, Ph.D.
 
 # List of links in the navigation bar
 navbar-links:
-  Bio:
-    - About: "http://google.com/"
+  About:
+    - Bio: "http://google.com/"
     - Portfolio: "http://google.com/"
     - Awards: "http://google.com/"
   Consulting: "http://google.com/"
