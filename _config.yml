@@ -20,12 +20,12 @@ title: Nickolas P. Demas, Ph.D.
 
 # List of links in the navigation bar
 navbar-links:
-  Home: 
+  Home: "http://google.com/"
   #About Me: "aboutme"
-  Bio:
-  Portfolio:
-  Consulting:
-  Contact:
+  Bio: "http://google.com/"
+  Portfolio: "http://google.com/"
+  Consulting: "http://google.com/"
+  Contact: "http://google.com/"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
