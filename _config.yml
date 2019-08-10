@@ -20,16 +20,16 @@ title: Nickolas P. Demas, Ph.D.
 
 # List of links in the navigation bar
 navbar-links:
-  #Home: "http://google.com/"
-  #Bio: "http://google.com/"
-  #Portfolio: "http://google.com/"
-  #Consulting: "http://google.com/"
-  #Contact: "http://google.com/"
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Home: "http://google.com/"
+  Bio: "http://google.com/"
+  Portfolio: "http://google.com/"
+  Consulting: "http://google.com/"
+  Contact: "http://google.com/"
+  #About Me: "aboutme"
+  #Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
