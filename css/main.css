@@ -47,6 +47,10 @@ hr.small {
   border-radius: 3px;
 }
 
+.text-quote {
+  text-align: center;
+}
+
 .main-content {
   padding-top: 80px;
 }
