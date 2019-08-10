@@ -37,7 +37,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "/img/avatar-icon.png"
+# title-img: "/img/avatar-icon.png" #doesn't seem to work as of Aug 9, 2019
 
 # --- Background colour/image options --- #
 
