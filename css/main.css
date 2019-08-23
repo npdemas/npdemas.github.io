@@ -277,7 +277,6 @@ footer {
 }
 
 footer p.text-muted {
-  font-size: 8px;
   color: {{ site.footer-text-col }};
 }
 
@@ -296,6 +295,7 @@ footer .copyright {
 }
 footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 8px;
   text-align: center;
   margin: 10px 0 0;
 }
