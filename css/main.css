@@ -294,6 +294,7 @@ footer .copyright {
   margin-bottom: 0;
 }
 footer .theme-by {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin: 10px 0 0;
 }
