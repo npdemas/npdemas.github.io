@@ -8,11 +8,13 @@ Some of our areas of technical expertise include (but are not limited to):
 - Prototyping
 - Research and Development
 - Product & Machine Design
+- Manufacturing Optimization
 - Sensing and Instrumentation
 - Testing
 - Data Processing
 - Signal Analysis
-- PCB Layout
+- System Identification
+- Circuit Design and Board Layout
 - Project Planning
 - Installations
 - Failure Analysis
