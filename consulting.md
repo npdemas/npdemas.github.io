@@ -20,4 +20,4 @@ Our areas of expertise include:
 - Failure Analysis
 - Reverse Engineering
 
-We are currently accepting new clients. Please contact our Principal Nickolas P. Demas by <a href="contact">email</a> to learn how we can serve you.
+We are currently accepting new clients. Please contact our Principal Nickolas P. Demas by <a href="https://npdemas.github.io/contact">email</a> to learn how we can serve you.
