@@ -130,6 +130,7 @@ img {
 .navbar-custom .nav li a {
   font-weight: 400; /* changed from 800 */
   color: {{ site.navbar-text-col }};
+  text-decoration: none !important;
 }
 
 .navbar-custom .navbar-brand:hover,
