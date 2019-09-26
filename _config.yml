@@ -20,7 +20,7 @@ title: Nickolas P. Demas
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "bio"
+  Home: "index.html"
   Portfolio: "portfolio"
   Consulting: "consulting"
   Contact: "contact"
