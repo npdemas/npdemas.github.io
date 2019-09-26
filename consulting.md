@@ -2,9 +2,9 @@
 layout: page
 ---
 
-Demas Consulting, LLC is a technical consulting company serving hardware companies in the greater Boston area. 
+Demas Consulting, LLC is provides technical consulting services to hardware companies in the greater Boston area. Current projects are focused on developing medical devices and advanced instrumentation systems. 
 
-Some of our areas of technical expertise include (but are not limited to):
+Our areas of expertise include:
 - Prototyping
 - Research and Development
 - Product & Machine Design
@@ -20,5 +20,4 @@ Some of our areas of technical expertise include (but are not limited to):
 - Failure Analysis
 - Reverse Engineering
 
-Case Study 1
-Case Study 2
+We are currently accepting new clients. Please contact our Principal Nickolas P. Demas by <a href="contact">email</a> to learn how we can serve you.
