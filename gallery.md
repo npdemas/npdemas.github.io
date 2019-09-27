@@ -6,9 +6,9 @@ Please find a small sampling of my past projects and skills
 
 --- Project Gallery ---
 
-- THOR Tourniquet (Snapshot, <a href="https://www.thorTQ.com">Website</a>)
-- Acoustic Attenuation Spectrometer (<a href="resources/gallery/projects/acousticSpectrometer_Snapshot_1.png">Snapshot</a>, Thesis (Publication Pending))
-- 3 Axis Force Sensor (Snapshot, <a href="https://dspace.mit.edu/handle/1721.1/101813">Thesis</a>, <a href="https://asmedigitalcollection.asme.org/medicaldevices/article/13/2/021007/727293/An-Electronic-Force-Sensor-for-Medical-JetPaper">ASME Journal of Medical Devices Paper</a>)
+- THOR Tourniquet (Snapshot, <a href="https://www.thorTQ.com" target="_blank">Website</a>)
+- Acoustic Attenuation Spectrometer (<a href="resources/gallery/projects/acousticSpectrometer_Snapshot_1.png" target="_blank">Snapshot</a>, Thesis (Publication Pending))
+- 3 Axis Force Sensor (Snapshot, <a href="https://dspace.mit.edu/handle/1721.1/101813" target="_blank">Thesis</a>, <a href="https://asmedigitalcollection.asme.org/medicaldevices/article/13/2/021007/727293/An-Electronic-Force-Sensor-for-Medical-JetPaper" target="_blank">ASME Journal of Medical Devices Paper</a>)
 
 --- Fabrication Gallery ---
 
@@ -16,7 +16,7 @@ Please find a small sampling of my past projects and skills
 
 Electronics (circuit design, PCB design, PCB population, debugging)
 
-- Custom Push-to-connect Sensors (<a href="resources/gallery/fabrication/electronics/customPCBs_Shapshot_1.png">Snapshot</a>)
+- Custom Push-to-connect Sensors (<a href="resources/gallery/fabrication/electronics/customPCBs_Shapshot_1.png" target="_blank">Snapshot</a>)
 - Biopotential Measurement Circuitry (Snapshot)
 
 Metalworking (machining and turning Centers, manual mills and lathes, stick & MIG welders, grinders, plasma cutters)
