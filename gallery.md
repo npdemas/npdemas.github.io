@@ -17,31 +17,31 @@ An electronic force for standardizing needle free drug delivery to a patient's s
 --- Fabrication Skills ---
 
 * Electronics (circuit design, PCB design, PCB population, programming, debugging) (<a href="https://npdemas.com/resources/gallery/fabrication/electronics/customPCBs_Shapshot_1.jpg" target="_blank">Example</a>)
-<!--
-  - Custom Push-to-connect Sensors (<a href="https://npdemas.github.io/resources/gallery/fabrication/electronics/customPCBs_Shapshot_1.jpg" target="_blank">Snapshot</a>)
-  - Biopotential Measurement Circuitry (Snapshot)
+<!-- PUT DASHES BACK FOR BULLETS WHEN ADDING ITEMS BACK IN
+   Custom Push-to-connect Sensors (<a href="https://npdemas.github.io/resources/gallery/fabrication/electronics/customPCBs_Shapshot_1.jpg" target="_blank">Snapshot</a>)
+   Biopotential Measurement Circuitry (Snapshot)
 -->
 * Metalworking (machining and turning Centers, manual mills and lathes, stick & MIG welders, grinders, plasma cutters) (<a href="https://www.youtube.com/watch?v=xHvP_ZttqkQ" target="_blank">Example</a>)
 <!--
-  - Single Cylinder Air Motor (Snapshot, Video)
-  - F117 Nighthawk Sculpture (Snapshot)
-  - Amateur Radio Tower Repair (Snapshot)
+   Single Cylinder Air Motor (Snapshot, Video)
+   F117 Nighthawk Sculpture (Snapshot)
+   Amateur Radio Tower Repair (Snapshot)
 -->
 
 * Woodworking (chop saw, table saw, scroll saw, band saw, router, drill press, air tools, biscuit cutter, hand tools) (<a href="https://npdemas.github.io/resources/gallery/fabrication/woodworking/servingTable_Snapshot_1.jpg" target="_blank">Example</a>)
 <!--
-  - Adirondack Glider (Snapshot)
-  - Jewelry Box (Snapshot)
-  - Serving Table (Snapshot)
-  - Birdhouse (Snapshot)
+   Adirondack Glider (Snapshot)
+   Jewelry Box (Snapshot)
+   Serving Table (Snapshot)
+   Birdhouse (Snapshot)
 -->
 
 * Rapid Prototyping (FDM, SLA, SLS, laser cutting) (<a href="https://npdemas.github.io/resources/gallery/fabrication/rapid_prototyping/customEnclosure_Snapshot_1.jpg" target="_blank">Example</a>)
 <!--
-  - Miniature Chicago Cubs Marquee Installation (Snapshot)
-  - Rapid Application Tourniquet Prototype (Snapshot)
-  - Custom Nylon SLS Medical Device Prototype Housing (<a href="https://npdemas.github.io/resources/gallery/fabrication/rapid_prototyping/customEnclosure_Snapshot_1.jpg" target="_blank">Snapshot</a>)
-  - Conducting Polymer Molecule Model (Snapshot)
+   Miniature Chicago Cubs Marquee Installation (Snapshot)
+   Rapid Application Tourniquet Prototype (Snapshot)
+   Custom Nylon SLS Medical Device Prototype Housing (<a href="https://npdemas.github.io/resources/gallery/fabrication/rapid_prototyping/customEnclosure_Snapshot_1.jpg" target="_blank">Snapshot</a>)
+   Conducting Polymer Molecule Model (Snapshot)
 -->
 
 <!--
