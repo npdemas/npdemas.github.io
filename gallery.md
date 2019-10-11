@@ -21,7 +21,7 @@ An electronic force for standardizing needle free drug delivery to a patient's s
    Custom Push-to-connect Sensors (<a href="https://npdemas.github.io/resources/gallery/fabrication/electronics/customPCBs_Shapshot_1.jpg" target="_blank">Snapshot</a>)
    Biopotential Measurement Circuitry (Snapshot)
 -->
-* Metalworking (machining and turning centers, manual mills and lathes, stick & MIG welders, grinders, plasma cutters) (<a href="https://www.youtube.com/watch?v=xHvP_ZttqkQ" target="_blank">Example</a>)
+* Metalworking (machining and turning centers, manual mills and lathes, stick & MIG welders, grinders, plasma cutters) (<a href="https://npdemas.github.io/resources/gallery/fabrication/metalworking/CHEM_562L_Air_Motor.mp4" target="_blank">Example</a>)
 <!--
    Single Cylinder Air Motor (Snapshot, Video)
    F117 Nighthawk Sculpture (Snapshot)
