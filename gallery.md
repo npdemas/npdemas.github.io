@@ -7,7 +7,7 @@ layout: page
 - THOR Tourniquet (<a href="https://npdemas.com/resources/gallery/projects/THORTourniquet_Snapshot_1.jpg" target="_blank">Snapshot</a>, <a href="https://www.thorTQ.com" target="_blank">Website</a>)<br/>
 A rapid application bleeding control device for civilian and military use.
 
-- Acoustic Attenuation Spectrometer (<a href="https://npdemas.com/resources/gallery/projects/acousticSpectrometer_Snapshot_1.jpg" target="_blank">Snapshot</a>, (<a href="https://dspace.mit.edu/handle/1721.1/122511" target="_blank">PhD Thesis</a>)<br/>
+- Acoustic Attenuation Spectrometer (<a href="https://npdemas.com/resources/gallery/projects/acousticSpectrometer_Snapshot_1.jpg" target="_blank">Snapshot</a>, <a href="https://dspace.mit.edu/handle/1721.1/122511" target="_blank">PhD Thesis</a>)<br/>
 A low-cost gas detector that leverages species specific classical thermoviscous and non-classical quantum mechanical attenuation.
 
 - 3 Axis Force Sensor for standardizing drug delivery (<a href="https://npdemas.com/resources/gallery/projects/forceSensor_Snapshot_1.jpg" target="_blank">Snapshot</a>, <a href="https://dspace.mit.edu/handle/1721.1/101813" target="_blank">SM Thesis</a>, <a href="https://asmedigitalcollection.asme.org/medicaldevices/article/13/2/021007/727293/An-Electronic-Force-Sensor-for-Medical-JetPaper" target="_blank">ASME Journal of Medical Devices Paper</a>)<br/>
