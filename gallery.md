@@ -4,7 +4,7 @@ layout: page
 
 --- Recent Past Projects ---
 
-- THOR Tourniquet (<a href="https://npdemas.com/resources/gallery/projects/THORTourniquet_Snapshot_1.jpg" target="_blank">Snapshot</a>, <a href="https://www.thorTQ.com" target="_blank">Website</a>)<br/>
+- THOR Tourniquet (<a href="https://npdemas.com/resources/gallery/projects/THORTourniquet_Snapshot_1.jpg" target="_blank">Snapshot</a>, <a href="https://rapid-stop.com/" target="_blank">Website</a>)<br/>
 A rapid application bleeding control device for civilian and military use.
 
 - Acoustic Attenuation Spectrometer (<a href="https://npdemas.com/resources/gallery/projects/acousticSpectrometer_Snapshot_1.jpg" target="_blank">Snapshot</a>, <a href="https://dspace.mit.edu/handle/1721.1/122511" target="_blank">PhD Thesis</a>)<br/>
