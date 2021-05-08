@@ -4,6 +4,9 @@ layout: page
 
 --- Recent Past Projects ---
 
+- Stretch (<a href="https://www.bostondynamics.com/stretch" target="_blank">Link</a>, <a href="https://rapid-stop.com/" target="_blank">Website</a>)<br/>
+A versatile mobile robot for case handling, designed for easy deployment in existing warehouses.
+
 - THOR Tourniquet (<a href="https://npdemas.com/resources/gallery/projects/THORTourniquet_Snapshot_1.jpg" target="_blank">Snapshot</a>, <a href="https://rapid-stop.com/" target="_blank">Website</a>)<br/>
 A rapid application bleeding control device for civilian and military use.
 
